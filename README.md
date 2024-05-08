@@ -1,5 +1,4 @@
 # MyGit
  验证 Git 的一些操作
 
-VERSION = '0.2'
-
+VERSION = '0.1.1'
